@@ -5,5 +5,5 @@
 ### The reviews is group into positive and negative based on how the reviewers describes their emotions  towards the various movies.
 ### zero and one was assigned to negative and positive respectively. 
 # Data used: 
-###  The reviews data can be found at [reviewa](http://ai.stanford.edu/~amaas/data/sentiment/)
+###  The reviews data can be found at [reviews](http://ai.stanford.edu/~amaas/data/sentiment/)
 
